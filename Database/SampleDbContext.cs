@@ -20,8 +20,8 @@ namespace Database
             optionsBuilder.UseSqlServer(@"Server=(LocalDB)\v11.0;Database=Thinktecture;", x =>
                 {
                     x.MigrationsAssembly(typeof(SampleDbContext).GetTypeInfo().Assembly.GetName().Name);
+                    x.AddRowNumberSupport();
                 });
-            optionsBuilder.AddRowNumberSupport();
         }
     }
 }
