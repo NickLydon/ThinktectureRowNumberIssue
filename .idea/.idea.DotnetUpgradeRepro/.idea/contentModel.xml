@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Dev\thinktecture-rownum\DotnetUpgradeRepro" t="IncludeFlat">
+      <e p="Database" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Database.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20200602100307_InitialCreate.cs" t="Include" />
+          <e p="20200602100307_InitialCreate.Designer.cs" t="Include" />
+          <e p="SampleDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Database.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RoleEntity.cs" t="Include" />
+        <e p="RoleEntityConfiguration.cs" t="Include" />
+        <e p="RoleRepository.cs" t="Include" />
+        <e p="RoleSortField.cs" t="Include" />
+        <e p="SampleDbContext.cs" t="Include" />
+      </e>
+      <e p="DotnetUpgradeRepro.sln" t="IncludeFlat" />
+      <e p="EntryPoint" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EntryPoint.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="EntryPoint.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\n.lydon\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\n.lydon\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\n.lydon\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DotnetUpgradeRepro.1825413363.00" t="ExcludeRecursive" />
+  </component>
+</project>
